@@ -1,4 +1,4 @@
 application-base
 ================
 
-Application Base documentation, wiki, tutorial and implementations
+Application Base documentation, wiki and tutorial 
